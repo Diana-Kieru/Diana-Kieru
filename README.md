@@ -1,6 +1,6 @@
 # Hello, Diana Kieru here. 👋🤓
 
-**Mobile Engineer with 6+ years of experience**
+**Mobile Engineer**
 
 ## 🔭 I'm currently working on
 - Android applications at Malipo Circles
@@ -20,7 +20,7 @@
 
 ## 🛠️ Tech Stack
 
-**Expert (4+ years):**
+**Expert:**
 - Android SDK, Java, Kotlin, Material Design, MVVM Architecture
 - Git, REST APIs, Retrofit, XML Layouts, Jetpack Compose
 
@@ -35,8 +35,6 @@
 - LinkedIn: [Diana Kieru](https://linkedin.com/in/diana-kieru)
 - Location: Nairobi, Kenya
 
-## 📊 GitHub Stats
-![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diana-Kieru&show_icons=true&theme=dark)
 
 ---
 *Mobile Engineer specializing in Android development and Kotlin Multiplatform Mobile (KMM)*
