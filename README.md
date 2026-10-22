@@ -5,6 +5,11 @@
 ## 🔭 I'm currently working on
 - Android applications at Malipo Circles
 
+## 📱 THRYVE
+Wellness app for journaling, gratitude, fasting, and letters to your future self.
+
+- [Download on Google Play](https://play.google.com/store/apps/details?id=com.thryve)
+
 ## 🌱 I'm currently learning
 - Advanced Kotlin Multiplatform Mobile (KMM) architecture
 - Backend development with Spring Boot
